@@ -10,6 +10,7 @@ Fork this Repo clone it to your drive and do the exercises at:
 ![Python Class](https://github.com/Campbell-law/sept-05-Intro-to-Python/blob/master/pclass.jpeg)
 
 
+## Wisdom from Dan Bader - The Real Python Guy
 Hey there,
 
 A couple of years ago I'd become quite interested in martial arts.
