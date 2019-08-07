@@ -2,6 +2,8 @@
 
 ## [Chapter 1 Python Basics](https://automatetheboringstuff.com/chapter1/)
 
+Fork this Repo clone it to your drive and do the exercises at [sept-05.py](https://github.com/Campbell-law/sept-05-Intro-to-Python/blob/master/sept-05.py)
+
 ## A Python class!
 
 ![Python Class](https://github.com/Campbell-law/sept-05-Intro-to-Python/blob/master/pclass.jpeg)
