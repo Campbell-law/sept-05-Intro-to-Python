@@ -75,8 +75,18 @@ l = "law"
 #  1) Can only be one word
 #  2) Can't begin with number
 #  3) Hyphens not allowed 
-#  4) Can't be reserved words
-#  5) Can't be special character like $ of '
+#  4) Can't be special character like $ of '
+#  5) Can't be Python keywords
+#
+#  https://docs.python.org/2.5/ref/keywords.html
+#
+# and       del       from      not       while    
+# as        elif      global    or        with     
+# assert    else      if        pass      yield    
+# break     except    import    print              
+# class     exec      in        raise              
+# continue  finally   is        return             
+# def       for       lambda    try
 
 # 12. which ones of the following are valid:
 
