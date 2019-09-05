@@ -29,7 +29,9 @@ print(n)
 
 # 4. Change precedence to get 25, assign result to n2 and print answer (boring 15)
 
+
 # 5. Add n to n2, assign it to ans and print ans - hint you should get 42
+
 
 
 # 6. find the type for 2  -hint type(2)
